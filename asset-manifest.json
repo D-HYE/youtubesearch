@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/youtubesearch/static/css/main.40c9256c.css",
+    "main.js": "/youtubesearch/static/js/main.c53cc5ae.js",
+    "static/media/search.png": "/youtubesearch/static/media/search.afde00ab19b32864cdd8.png",
+    "index.html": "/youtubesearch/index.html",
+    "main.40c9256c.css.map": "/youtubesearch/static/css/main.40c9256c.css.map",
+    "main.c53cc5ae.js.map": "/youtubesearch/static/js/main.c53cc5ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c9256c.css",
+    "static/js/main.c53cc5ae.js"
+  ]
+}
